@@ -1,3 +1,7 @@
+Scheme of normal(perhaps) database with 7 tables:
+&nbsp;
+![db_scheme.png](screens/db_scheme.png "scheme of database")
+
 Result of first task:
 &nbsp;
 ![img.png](screens/img.png "first task result")
