@@ -1,0 +1,4 @@
+services:
+  pythonparser:
+    build: ./
+    command: python3 ./main.py
